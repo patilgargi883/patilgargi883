@@ -1,4 +1,4 @@
-# Hi there! 👋### Hi there 👋 I'm [Your Name]
+ 👋### Hi there 👋 I'm Gargi Patil
 
 I'm a data science learner passionate about Python, SQL, and turning data into meaningful insights.
 
