@@ -6,8 +6,7 @@ I'm a data science learner passionate about Python, SQL, and turning data into m
 - 🌱 I’m learning data visualization and statistics
 - 📫 Connect with me:
   - https://www.linkedin.com/in/gargi-patil-770964272/
-  - https://www.hackerrank.com/profile/gargipatil1925
-
+  
 
 
 
