@@ -10,6 +10,4 @@ I'm a data science learner passionate about Python, SQL, and turning data into m
 
 
 
-<!--
-You can customize the content above with your specific information. Remove comments <!-- and --> before pasting it into your GitHub profile README.
--->
+
